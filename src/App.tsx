@@ -258,7 +258,7 @@ function App() {
                           <div className="mt-auto">
                             <Link 
                               to={`/wine/${wine.id}`}
-                              className="mt-4 inline-flex items-center justify-center border-2 border-green-600 text-green-700 hover:bg-green-600 hover:text-white font-medium px-4 py-2 rounded-md transition-colors duration-200 w-full text-center"
+                              className="mt-4 inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-700 font-medium px-4 py-2 rounded-md transition-colors duration-200 w-full text-center"
                             >
                               Scopri di più
                               <ChevronRight size={16} className="ml-1 group-hover:translate-x-1 transition-transform" />
