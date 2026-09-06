@@ -60,3 +60,4 @@ public/
 - Assicurati che tutte le immagini siano ottimizzate per il web
 - Le immagini dei vini vanno nella cartella `public/images/`
 - Il sito è completamente responsive e funziona su tutti i dispositivi
+       
